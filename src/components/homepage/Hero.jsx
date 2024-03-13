@@ -69,3 +69,7 @@ export default function Hero() {
     </section>
   );
 }
+
+import { inject } from '@vercel/analytics';
+ 
+inject();
