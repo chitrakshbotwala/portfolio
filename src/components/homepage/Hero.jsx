@@ -70,6 +70,4 @@ export default function Hero() {
   );
 }
 
-import { inject } from '@vercel/analytics';
- 
-inject();
+
